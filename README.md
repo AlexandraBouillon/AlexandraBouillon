@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Hack Shop](https://github.com/AlexandraBouillon/hack-shop)
 
-- 👨‍💻 All of my projects are available at [www.AlexandraBouillon.com](www.AlexandraBouillon.com)
+-👩🏻‍💻 All of my projects are available at [www.AlexandraBouillon.com](www.AlexandraBouillon.com)
 
 - 📝 I regularly write articles on [www.AlexandraBouillon.com](www.AlexandraBouillon.com)
 
