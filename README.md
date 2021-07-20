@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [www.AlexandraBouillon.com](www.AlexandraBouillon.com)
 
-- 💬 Ask me about **Redux, Object Oriented Programming**
+- 💬 Ask me about **Redux, Object Oriented Programming,🍾 Vintage Champagne **
 
 - 📫 How to reach me **Alexandra.bouillon@gmail.com**
 
