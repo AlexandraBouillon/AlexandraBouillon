@@ -15,8 +15,6 @@
 
 - 👩🏻‍💻 All of my projects are available at [www.AlexandraBouillon.com](www.AlexandraBouillon.com)
 
-- 📝 I regularly write articles on [www.AlexandraBouillon.com](www.AlexandraBouillon.com)
-
 - 💬 Ask me about **Redux, Object Oriented Programming**
 
 - 📫 How to reach me **Alexandra.bouillon@gmail.com**
