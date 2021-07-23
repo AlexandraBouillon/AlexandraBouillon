@@ -13,7 +13,7 @@
 
 - 😅 I’m looking for help with [Hack Shop](https://github.com/AlexandraBouillon/hack-shop)
 
-- 👩🏻‍💻 All of my projects are available at [www.AlexandraBouillon.com](www.AlexandraBouillon.com)
+- 👩🏻‍💻 All of my projects are available at [http://www.alexandrabouillon.com/](www.AlexandraBouillon.com)
 
 - 💬 Ask me about **Redux, Object Oriented Programming**
 
