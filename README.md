@@ -15,7 +15,7 @@
 
 - 👩🏻‍💻 All of my projects are available at [AlexandraBouillon](http://www.alexandrabouillon.com/)
 
-- 💬 Ask me about **Redux, Object Oriented Programming**
+- 💬 Ask me about **Redux, Object Oriented Programming, and 🍾 Vintage Champagne **
 
 - 📫 How to reach me **Alexandra.bouillon@gmail.com**
 
