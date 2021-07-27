@@ -7,11 +7,7 @@
 
 - 🔭 I’m currently working on [Assign Now](https://github.com/AlexandraBouillon/capstone_assign_now.git)
 
-- 🌱 I’m currently learning **Python, Javascript, PostGres, Express, React, Node**
-
-- Everyone is welcome to join our [DS&Asquad](https://github.com/AlexandraBouillon/DSAsquad.git)
-
-- 😅 I’m looking for help with [Hack Shop](https://github.com/AlexandraBouillon/hack-shop)
+- 🤖 Everyone is welcome to join our [DS&Asquad](https://github.com/AlexandraBouillon/DSAsquad.git)
 
 - 👩🏻‍💻 All of my projects are available at [AlexandraBouillon](http://www.alexandrabouillon.com/)
 
