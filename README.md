@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, Javascript, PostGres, Express, React, Node**
 
-- 👯 I’m looking to collaborate on [House Hopping](https://github.com/ethan-kaseff/house_hopping)
+- Everyone is welcome to join our [DS&Asquad](https://github.com/AlexandraBouillon/DSAsquad.git)
 
 - 😅 I’m looking for help with [Hack Shop](https://github.com/AlexandraBouillon/hack-shop)
 
