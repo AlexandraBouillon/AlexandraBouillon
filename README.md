@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Redux, Object Oriented Programming, and 🍾 Vintage Champagne **
 
-- 📫 How to reach me **Alexandra.bouillon@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/alexandrabouillon/](https://www.linkedin.com/in/alexandrabouillon/)
 
 <h3 align="left">Connect with me:</h3>
