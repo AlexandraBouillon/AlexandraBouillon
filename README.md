@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Redux, Object Oriented Programming, and 🍾 Vintage Champagne **
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/alexandrabouillon/](https://www.linkedin.com/in/alexandrabouillon/)
+- 📄 Work experience [https://www.linkedin.com/in/alexandrabouillon/](https://www.linkedin.com/in/alexandrabouillon/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
