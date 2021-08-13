@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Assign Now](https://github.com/AlexandraBouillon/capstone_assign_now.git)
 
-- 🤖 Everyone is welcome to join our [DS&Asquad](https://github.com/AlexandraBouillon/DSAsquad.git)
+- 🤖 Everyone is welcome to join our [DS&Asquad]
 
 - 👩🏻‍💻 All of my projects are available at [AlexandraBouillon](http://www.alexandrabouillon.com/)
 
