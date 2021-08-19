@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🤓, I'm Alexandra </h1>
+<h1 align="center">Hi 🤓, I'm Alexandra Bouillon</h1>
 <h3 align="center">A team orientated, result driven, Full-Stack Software Engineer based in 🌴Oakland, CA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandrabouillon&label=Profile%20views&color=0e75b6&style=flat" alt="alexandrabouillon" /> </p>
