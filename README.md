@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandrabouillon" alt="alexandrabouillon" /></a> </p>
 
-- 🔭 I’m currently working on [Assign Now](https://github.com/AlexandraBouillon/capstone_assign_now.git)
+- 🔭 I’m currently working on [QuestionApp] (https://github.com/AlexandraBouillon/QuestionApp.git)
 
 - 🤖 Everyone is welcome to join our DS&Asquad
 
