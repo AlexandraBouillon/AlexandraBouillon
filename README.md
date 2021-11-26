@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working at [The Beans](https://www.thebeans.io/)
 
-- 🤖 Everyone is welcome to join our DS&Asquad
+- 🤖 Everyone is welcome to join our DS&A Squad
 
 - 👩🏻‍💻 All of my projects are available at [AlexandraBouillon](http://www.alexandrabouillon.com/)
 
-- 💬 Ask me about **Redux, Object Oriented Programming, and 🍾 Vintage Champagne **
+- 💬 Ask me about **Graphql,Apollo, Object Oriented Programming, and 🍾 Vintage Champagne **
 
 - 📄 Work experience [https://www.linkedin.com/in/alexandrabouillon/](https://www.linkedin.com/in/alexandrabouillon/)
 
