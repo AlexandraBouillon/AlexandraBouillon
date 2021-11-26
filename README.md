@@ -11,7 +11,7 @@
 
 - 👩🏻‍💻 All of my projects are available at [AlexandraBouillon](http://www.alexandrabouillon.com/)
 
-- 💬 Ask me about **Graphql,Apollo, Object Oriented Programming, and 🍾 Vintage Champagne **
+- 💬 Ask me about **Graphql, Apollo, Object Oriented Programming, and 🍾 Vintage Champagne **
 
 - 📄 Work experience [https://www.linkedin.com/in/alexandrabouillon/](https://www.linkedin.com/in/alexandrabouillon/)
 
