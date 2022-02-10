@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandrabouillon" alt="alexandrabouillon" /></a> </p>
 
-- 🔭 I’m currently working at [The Beans](https://www.thebeans.io/)
 
 - 🤖 Everyone is welcome to join our DS&A Squad
 
-- 👩🏻‍💻 All of my projects are available at [AlexandraBouillon](http://www.alexandrabouillon.com/)
-
 - 💬 Ask me about **Graphql, Apollo, Object Oriented Programming, and 🍾 Vintage Champagne **
 
-- 📄 Work experience [https://www.linkedin.com/in/alexandrabouillon/](https://www.linkedin.com/in/alexandrabouillon/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
