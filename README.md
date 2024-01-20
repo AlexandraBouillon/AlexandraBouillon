@@ -1,14 +1,10 @@
-<h1 align="center">Hi 🤓, I'm Alexandra Bouillon</h1>
-<h3 align="center">A team orientated, result driven, Software Engineer</h3>
+<h1 align="center">Hi 🙂, I'm Alexandra Bouillon</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandrabouillon&label=Profile%20views&color=0e75b6&style=flat" alt="alexandrabouillon" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandrabouillon" alt="alexandrabouillon" /></a> </p>
 
-
-- 🤖 Everyone is welcome to join our DS&A Squad
-
-- 💬 Ask me about **Graphql, Apollo, Object Oriented Programming, and 🍾 Vintage Champagne **
+- 💬 Ask me about **Graphql, Apollo, Object Oriented Programming, and 🚲 cycling **
 
 </p>
 
